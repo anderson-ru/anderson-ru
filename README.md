@@ -22,6 +22,7 @@ I've been learning data science for 6 years since high school. I love finding co
 
 | Project name | Description | Presented in the project |
 |----------------|-----------------|-----------------|
+| A/B Test of Recommendation Algorithm (https://github.com/anderson-ru/ab_test) | A/B testing of recommendation algorithms in a messaging app feed | EDA, Data Preprocessing, Statistical Analysis (Jupyter Notebooks), pandahouse, pandas, seaborn, matplotlib, scipy.stats |
 
 
 
